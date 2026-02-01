@@ -3,7 +3,7 @@
 
 # 🔳 QR Code Generator
 
-## 🌐 Live Demo
+## 🌐 Live Web
 
 👉 [https://praveen-mani-gitzz.github.io/QR-Code-Generator/](https://praveen-mani-gitzz.github.io/QR-code-generator/)
 
