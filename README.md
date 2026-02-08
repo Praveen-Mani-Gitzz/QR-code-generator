@@ -5,7 +5,7 @@
 
 ## 🌐 Live Web
 
-👉 [https://praveen-mani-gitzz.github.io/QR-Code-Generator/](https://praveen-mani-gitzz.github.io/QR-code-generator/)
+👉 [https://Prvn-1.github.io/QR-Code-Generator/](https://Prvn-1.github.io/QR-code-generator/)
 
 ---
 
